@@ -3,7 +3,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](app)
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
+<img width="450px;" src=""/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
