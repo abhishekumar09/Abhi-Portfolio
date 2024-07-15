@@ -3,12 +3,21 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](app)
 ## Some Images:
-<img width="450px;" src=""/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+
+<img width="959" alt="Screenshot 2024-07-06 103500" src="https://github.com/abhishekumar09/Abhi-Portfolio/assets/96674255/02391b3b-f42d-45bd-aa87-8065c185aa0f">
+
+<img width="959" alt="Screenshot 2024-07-06 103706" src="https://github.com/abhishekumar09/Abhi-Portfolio/assets/96674255/f6e12cdb-35a3-46f3-91c1-f009575929a2">
+
+<img width="959" alt="Screenshot 2024-07-06 103801" src="https://github.com/abhishekumar09/Abhi-Portfolio/assets/96674255/89682fb1-4a03-46f5-ac9e-c0b53d863ead">
+
+
+<img width="959;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
+
+<img width="959" alt="Screenshot 2024-07-06 103841" src="https://github.com/abhishekumar09/Abhi-Portfolio/assets/96674255/09d5cf50-7661-4827-bdee-6433db05a5ea">
+
+
+<img width="959" alt="Screenshot 2024-07-06 103903" src="https://github.com/abhishekumar09/Abhi-Portfolio/assets/96674255/6499188b-c38e-49b3-be0d-0394ffe7008a">
+
 
 
 ## Table of Contents
@@ -41,8 +50,8 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
+1. Clone the repository: `https://github.com/abhishekumar09/Abhi-Portfolio.git`
+2. Navigate to the project directory: `cd Abhi-portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
