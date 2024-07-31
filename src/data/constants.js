@@ -250,19 +250,19 @@ export const experiences = [
   //   desc: "Contributing to different open-source projects and learn from industry experts",
   //   doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
   // },
-  {
-    id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-    role: "Front-End Developer",
-    company: "GDSC",
-    date: "Nov2023 - jan-2024 ",
-    desc: "As an Front-End Developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
-    skills: [
-      "Leadership",
-      "Web Development",
-      "Figma",
-    ],
-  },
+  // {
+  //   id: 3,
+  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
+  //   role: "Front-End Developer",
+  //   company: "GDSC",
+  //   date: "Nov2023 - jan-2024 ",
+  //   desc: "As an Front-End Developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
+  //   skills: [
+  //     "Leadership",
+  //     "Web Development",
+  //     "Figma",
+  //   ],
+  // },
 //   {
 //     id: 0,
 //     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
