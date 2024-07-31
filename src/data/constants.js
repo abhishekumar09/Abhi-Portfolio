@@ -253,15 +253,13 @@ export const experiences = [
   {
     id: 3,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-    role: "Android Developer",
-    company: "DSC KIIT",
-    date: "Nov2021 - Present",
-    desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
+    role: "Front-End Developer",
+    company: "GDSC",
+    date: "Nov2023 - jan-2024 ",
+    desc: "As an Front-End Developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
     skills: [
       "Leadership",
-      "Mobile Application Development",
-      "Kotlin",
-      "XML",
+      "Web Development",
       "Figma",
     ],
   },
@@ -287,8 +285,9 @@ export const experiences = [
 // ];
 {
 id : 0,
+img: "https://media.licdn.com/dms/image/C4D0BAQEWhkVih_Q62g/company-logo_200_200/0/1653761701446?e=2147483647&v=beta&t=JDU2dVzs_WgSCIEhQpQLL5yAgGEPAlkySLbzMoNCmgI"
 role: "Technnical Head",
-organisation :" Coding Pirates LPU",
+organization:" Coding Pirates LPU",
 date: "Jan 2023 - Oct 2023",
 desc: "As a Head of Technical Team at LPU from jan 2023 to oct 2023, I gained valuable hand-on experience in a web development and leadership skill . ",
 skills: [
