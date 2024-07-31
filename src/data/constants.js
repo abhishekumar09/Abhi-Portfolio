@@ -285,7 +285,7 @@ export const experiences = [
 // ];
 {
 id : 0,
-img: "https://media.licdn.com/dms/image/C4D0BAQEWhkVih_Q62g/company-logo_200_200/0/1653761701446?e=2147483647&v=beta&t=JDU2dVzs_WgSCIEhQpQLL5yAgGEPAlkySLbzMoNCmgI"
+img: "https://media.licdn.com/dms/image/C4D0BAQEWhkVih_Q62g/company-logo_200_200/0/1653761701446?e=2147483647&v=beta&t=JDU2dVzs_WgSCIEhQpQLL5yAgGEPAlkySLbzMoNCmgI",
 role: "Technnical Head",
 organization:" Coding Pirates LPU",
 date: "Jan 2023 - Oct 2023",
